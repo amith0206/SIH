@@ -1,0 +1,5 @@
+#The below text document shows the python libraries required to installed before execution of python libraries
+textblob
+pandas
+nltk
+datasets
